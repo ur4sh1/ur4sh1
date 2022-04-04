@@ -3,7 +3,7 @@
 
 <p>
   Formado na área técnica de informática em 2015 (Fucapi).
-  Em 2018 iniciei no ensino superior em Sistema da Informação na UniNorte, atualmente focado em desenvolvimento web.
+  Atualmente bacharel em Sistema da Informação, atualmente focado em desenvolvimento web.
 </p>
 
 - 🔭 Realizei estagio no setor de desenvolvimento web na SES AM -  Secretaria de Estado e Saúde do Amazonas
