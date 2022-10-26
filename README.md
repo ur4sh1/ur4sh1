@@ -1,6 +1,6 @@
 ## Olá, me chamo Alan Lucas ! 
 ### Bem vindo ao meu perfil GitHub 👋
-<img align="center" title="Card NLW" height="354" width="508" src="https://github.com/ur4sh1/Card-NLW-Copa/blob/main/assets/Card.png" />
+<img align="center" title="Card NLW" height="508" width="354" src="https://github.com/ur4sh1/Card-NLW-Copa/blob/main/assets/Card.png" />
 
 <p>
   Formado na área técnica de informática em 2015 (Fucapi).
