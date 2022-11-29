@@ -3,8 +3,7 @@
 <img align="right" title="Card NLW" src="https://github.com/ur4sh1/Card-NLW-Copa/blob/main/assets/Card.png" />
 
 <p>
-  Formado na área técnica de informática em 2015 (Fucapi).
-  Atualmente bacharel em Sistema da Informação, focado em desenvolvimento web.
+    Atualmente bacharel em Sistema da Informação, focado em desenvolvimento web.
 </p>
 
 - 🔭 Realizei estagio no setor de desenvolvimento web na SES AM -  Secretaria de Estado e Saúde do Amazonas
