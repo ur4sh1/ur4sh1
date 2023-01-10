@@ -38,7 +38,6 @@
 
   ![Snake animation](https://github.com/ur4sh1/ur4sh1/blob/output/github-contribution-grid-snake.svg)
     <hr>
-    <br>
     Contador de visitas (desde 09/01/2023)
-    </br>
+    <br><br>
     <p><img src="https://profile-counter.glitch.me/ur4sh1/count.svg" /></p>
