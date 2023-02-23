@@ -1,5 +1,4 @@
-## Olá, me chamo Alan Lucas ! 
-### Bem vindo ao meu perfil GitHub 👋
+### Bem vindo 👋
 
 <p>
     Atualmente bacharel em Sistema da Informação, focado em desenvolvimento web.
