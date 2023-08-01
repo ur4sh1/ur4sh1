@@ -41,3 +41,6 @@
     Contador de visitas (desde 09/01/2023)
     <br><br>
     <p><img src="https://profile-counter.glitch.me/ur4sh1/count.svg" /></p>
+
+    <hr>
+    <script src="https://gist.github.com/ur4sh1/0f017435418be08df82a97e68066a2c8.js"></script>
