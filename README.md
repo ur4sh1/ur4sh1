@@ -36,7 +36,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ur4sh1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </div>
 
-  ![Snake animation](https://github.com/ur4sh1/ur4sh1/blob/output/github-contribution-grid-snake.svg)
     <hr>
     Contador de visitas (desde 09/01/2023)
     <br><br>
