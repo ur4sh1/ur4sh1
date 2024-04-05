@@ -1,7 +1,7 @@
 ### Bem vindo 👋
 
 <p>
-    Atualmente bacharel em Sistema da Informação, focado em desenvolvimento web.
+    Cursando pós-graduação em segurança de sistema de informação
 </p>
 
 - 📫 Como entrar em contato comigo:<br>
